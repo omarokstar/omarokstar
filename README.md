@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Express.js**
 
-- 📫 How to reach me **omarkhaled908070@gmail.com**
+- 📫 How to reach me **omar.khaleeed.saalah@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sUh2ty9CIDHu_F-jKPT6-NIf91zb2MdM/view?usp=sharing)
 - ⚡ Fun fact ** I enjoy experimenting with new programming languages in my spare time, just for the thrill of learning something new! 💻 **
 
