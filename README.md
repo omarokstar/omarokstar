@@ -6,7 +6,6 @@
 - 💬 Ask me about **Express.js, Node.js, Laravel, REST APIs**
 - 📫 How to reach me: **omar.khaleeed.saalah@gmail.com**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1iqHc9HTVrISTt6o2uUqJVBryJK2mxogk/view?usp=sharing)
-- 🚀 Check out my project portfolio: [Project Showcase]((https://drive.google.com/file/d/1iqHc9HTVrISTt6o2uUqJVBryJK2mxogk/view?usp=sharing)
 - ⚡ Fun fact: I love experimenting with new programming languages just for the thrill of learning something new! 💻
 
 ---
