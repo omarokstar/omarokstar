@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Khaled</h1>
 <h3 align="center">A passionate Full Stack Developer from Egypt</h3>
 
-<p align="center">
-  <img src=[["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwdRf5xq2naDqzWyuQMsQ2-vdevixAN7QIA&s)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwdRf5xq2naDqzWyuQMsQ2-vdevixAN7QIA&s)" alt="coding-gif" width="400"/>
-</p>
-
----
-
 - 🔭 I’m currently working on **Laravel + Vue / Express.js + Angular job board and e-commerce platforms**
 - 🌱 I’m currently learning **Nest.js**
 - 💬 Ask me about **Express.js, Node.js, Laravel, REST APIs**
