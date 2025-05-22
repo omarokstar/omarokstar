@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from Egypt</h3>
 
 <p align="center">
-  <img src=["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwdRf5xq2naDqzWyuQMsQ2-vdevixAN7QIA&s)" alt="coding-gif" width="400"/>
+  <img src=[["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwdRf5xq2naDqzWyuQMsQ2-vdevixAN7QIA&s)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwdRf5xq2naDqzWyuQMsQ2-vdevixAN7QIA&s)" alt="coding-gif" width="400"/>
 </p>
 
 ---
