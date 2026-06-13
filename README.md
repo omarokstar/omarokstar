@@ -13,7 +13,7 @@ const omar = {
   role:          "Full-Stack Engineer",
   coreStack:     ["Node.js", "NestJS", "Express.js", "React.js", "Angular", "TypeScript"],
   databases:     ["MongoDB", "PostgreSQL"],
-  location:      "Cairo, Egypt 🇪🇬",
+  location:      "Egypt 🇪🇬",
   recentWork:    "Built RBAC systems, JWT auth, WebSockets & ACID-compliant MongoDB transactions @ Vultara, Inc.",
   goal:          "Eager to contribute to high-impact engineering teams and grow toward senior-level ownership",
   funFact:       "I pick up new programming languages for the thrill of it 💻",
