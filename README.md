@@ -1,17 +1,5 @@
 <div align="center">
 
-<img src="./SoftwareEngineer.svg" width="200"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0A0F1E,004F90&height=200&section=header&text=Omar%20Khaled%20Salah&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Node.js%2C%20NestJS%2C%20React%20%26%20Angular&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+Node.js+%26+NestJS;Express.js+%7C+TypeScript+%7C+MongoDB+%7C+PostgreSQL;React.js+%7C+Angular+%7C+Next.js;RBAC+%7C+WebSockets+%7C+Docker+%7C+CI%2FCD;Open+to+new+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
