@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="./SoftwareEngineer.svg" width="200"/>
+
+</div>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0A0F1E,004F90&height=200&section=header&text=Omar%20Khaled%20Salah&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Node.js%2C%20NestJS%2C%20React%20%26%20Angular&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
@@ -18,7 +24,7 @@
 const omar = {
   role:          "Full-Stack Engineer",
   coreStack:     ["Node.js", "NestJS", "Express.js", "React.js", "Angular", "TypeScript"],
-  databases:     ["MongoDB", "PostgreSQL", "MySQL"],
+  databases:     ["MongoDB", "PostgreSQL"],
   location:      "Cairo, Egypt 🇪🇬",
   recentWork:    "Built RBAC systems, JWT auth, WebSockets & ACID-compliant MongoDB transactions @ Vultara, Inc.",
   goal:          "Eager to contribute to high-impact engineering teams and grow toward senior-level ownership",
@@ -88,6 +94,8 @@ const omar = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
 ### 🧪 Testing & DevOps
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=vitest&logoColor=white)
@@ -219,6 +227,7 @@ const omar = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-khaled-20210317b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.khaleeed.saalah@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omarokstar)
+[![Resume](https://img.shields.io/badge/Resume-004F90?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1vhIDV4ajgUDDzEZRhAlNXgVICduQp6QV/view?usp=sharing)
 
 </div>
 
